@@ -27,4 +27,4 @@ steps:
       DEPLOY_DIR: "dist"
     when:
       branch:
-        - master
+        - main
