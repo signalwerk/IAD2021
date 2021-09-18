@@ -49,6 +49,10 @@ code.language-css {
     padding-bottom: 0.7rem;
   }
 
+.slide-list h4 strong {
+    font-weight: 400;
+  }
+
 .slide-list ul {
     margin-top: 0.6rem;
   }
@@ -75,6 +79,7 @@ code.language-css {
   .slide-list h4::before {
       width: 222.22222%;
   }
+
 
   .slide-list h4,
   .slide-list ul {
