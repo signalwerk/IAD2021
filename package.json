@@ -24,7 +24,6 @@
     "./packages/*"
   ],
   "devDependencies": {
-    "signalwerk.documentation.md": "file:packages/signalwerk.documentation.md",
-    "webpack-dev-server": "^4.2.1"
+    "signalwerk.documentation.md": "file:packages/signalwerk.documentation.md"
   }
 }

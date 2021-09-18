@@ -23,6 +23,12 @@ $breakpoints--l: 1000px;
     }
   }
 
+
+  h4 strong {
+    font-weight: 400;
+  }
+
+
   h4,
   ul {
     @media (--breakpoint-l) {
