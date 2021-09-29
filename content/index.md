@@ -23,7 +23,7 @@ description: Dokumente für IAD 2021
 
  -->
 
-## Dokumente
+## Dokumentation
 
 - 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
 - [Fonts · Darstellung ↗](https://interaction.signalwerk.ch/articles/font-rendering/)
@@ -45,7 +45,6 @@ description: Dokumente für IAD 2021
 ## Herbststemester 2021
 
 <div class='slide-list'>
-
 
 <div class="grid-12col">
 <div class="col-1to6">
