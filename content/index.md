@@ -29,13 +29,13 @@ description: Dokumente für IAD 2021
 ## Dokumente
 
 - 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
-- [Fonts · Darstellung](https://interaction.signalwerk.ch/articles/font-rendering/)
-- [Fonts · Eigenschaften](https://interaction.signalwerk.ch/articles/font-anatomy/)
-- [Fonts · Verwendung](https://interaction.signalwerk.ch/articles/font-use/)
-- [Screens](https://interaction.signalwerk.ch/articles/screens/)
-- [Farben im Web – unterscheiden und interpolieren](https://signalwerk.github.io/publisher/colors/)
-- [Rechtslage – ein kleines 1 × 1](https://interaction.signalwerk.ch/articles/legal/)
-- [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
+- [Fonts · Darstellung ↗](https://interaction.signalwerk.ch/articles/font-rendering/)
+- [Fonts · Eigenschaften ↗](https://interaction.signalwerk.ch/articles/font-anatomy/)
+- [Fonts · Verwendung ↗](https://interaction.signalwerk.ch/articles/font-use/)
+- [Screens ↗](https://interaction.signalwerk.ch/articles/screens/)
+- [Farben im Web – unterscheiden und interpolieren  ↗](http://publisher.signalwerk.ch/colors/)
+- [Rechtslage – ein kleines 1 × 1 ↗](https://interaction.signalwerk.ch/articles/legal/)
+- [Korrekte Zeichensetzung ↗](https://webtypo.signalwerk.ch/)
 
 <!--
 
