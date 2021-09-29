@@ -50,7 +50,7 @@ description: Dokumente für IAD 2021
 
 <div class='slide-list'>
 
-#### 2021 · KW 37 <br>**Bildschirme und Fonts · <br>Open Source Communities**
+#### {{date '2021-09-18' format='"KW" W · d. m. yyyy'}}<br>**Bildschirme und Fonts · <br>Open Source Communities**
 
 - 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW37-2021/)
 - 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
@@ -59,20 +59,20 @@ description: Dokumente für IAD 2021
 - OpenSource
 - Werkstatt
 
-#### 2021 · KW 46 <br>**Typografische System**
+#### {{date '2021-11-19' format='"KW" W · d. m. yyyy'}}<br>**Typografische System**
 
 - Typografie
 
-#### 2021 · KW 48 <br>**Typografische System**
+#### {{date '2021-12-04' format='"KW" W · d. m. yyyy'}}<br>**Typografische System**
 
 - Typografie
 
-#### 2022 · KW 1 <br>**Typografische System · <br>Open Source Communities**
+#### {{date '2022-01-07' format='"KW" W · d. m. yyyy'}}<br>**Typografische System · <br>Open Source Communities**
 
 - Typografie
 - OpenSource
 
-#### 2022 · KW 2 <br>**Technologiegeschichte der Schrift**
+#### {{date '2022-01-14' format='"KW" W · d. m. yyyy'}}<br>**Technologiegeschichte der Schrift**
 
 - Technologiegeschichte der Schrift
 - Typografie
