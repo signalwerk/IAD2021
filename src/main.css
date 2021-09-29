@@ -1,58 +1,15 @@
 @import "signalwerk.documentation.md/root.css";
 
-$breakpoints--l: 1000px;
-
-@custom-media --breakpoint-l (min-width: $breakpoints--l);
-
 .slide-list {
-  @media (--breakpoint-l) {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  h4::before {
-    display: block;
-    width: 100%;
-    content: "";
+  div[class^="grid-"] {
     border-top: 1px solid gray;
+    margin-top: 2.4rem;
+    margin-bottom: 1.4rem;
+    padding-top: 0.7rem;
     padding-bottom: 0.7rem;
-
-    @media (--breakpoint-l) {
-      width: calc(100% / 45 * 100);
-    }
   }
 
-
-  h4 strong {
-    font-weight: 400;
-  }
-
-
-  h4,
-  ul {
-    @media (--breakpoint-l) {
-      flex-shrink: 1;
-      flex-grow: 1;
-
-      padding-top: 0.7rem;
-      padding-bottom: 0.7rem;
-    }
-  }
-
-  h4 {
-    @media (--breakpoint-l) {
-      max-width: 45%;
-      flex-basis: 45%;
-    }
-  }
-
-  ul {
-    margin-top: 0.6rem;
-    @media (--breakpoint-l) {
-      margin-top: 1.4rem;
-      max-width: 50%;
-      flex-basis: 50%;
-    }
+  div[class^="col-"] > *:first-child {
+    margin-top: 0;
   }
 }
