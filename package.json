@@ -1,5 +1,5 @@
 {
-  "name": "IAD2021",
+  "name": "iad2021",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,19 +7,20 @@
     "start": "webpack-dev-server --config ./packages/signalwerk.documentation.md/webpack.config.js",
     "deploy": "npm run build && gh-pages -d dist",
     "build": "NODE_ENV=production webpack --config ./packages/signalwerk.documentation.md/webpack.config.js",
+    "update": "node ./packages/signalwerk.documentation.md/cli.js update",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signalwerk/IAD2021.git"
+    "url": "git+https://github.com/signalwerk/iad2021.git"
   },
   "keywords": [],
   "author": "Stefan Huber",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/signalwerk/IAD2021/issues"
+    "url": "https://github.com/signalwerk/iad2021/issues"
   },
-  "homepage": "https://github.com/signalwerk/IAD2021#readme",
+  "homepage": "https://github.com/signalwerk/iad2021#readme",
   "workspaces": [
     "./packages/*"
   ],
