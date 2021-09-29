@@ -1,0 +1,5 @@
+{
+  "package": { "name": "iad2021" },
+  "publish": { "domain": "iad2021.signalwerk.ch" },
+  "repository": { "url": "https://github.com/signalwerk/iad2021" }
+}
