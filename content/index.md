@@ -33,12 +33,11 @@ description: Dokumente für IAD 2021
 - [Farben im Web – unterscheiden und interpolieren ↗](http://publisher.signalwerk.ch/colors/)
 - [Rechtslage – ein kleines 1 × 1 ↗](https://interaction.signalwerk.ch/articles/legal/)
 - [Korrekte Zeichensetzung ↗](https://webtypo.signalwerk.ch/)
+- [Design-Systeme im Web ↗](https://publisher.signalwerk.ch/design-systems/)
+- [Masseinheiten im Web – relative oder absolute Angaben ↗](https://publisher.signalwerk.ch/css-units/)
 
-<!--
+<!-- - [Technologiegeschichte der Schrift ↗](https://interaction.signalwerk.ch/articles/font-history/) -->
 
-* [Technologiegeschichte der Schrift](https://signalwerk.github.io/learn.interaction/articles/font-history)
-
- -->
 
 ---
 
@@ -76,7 +75,10 @@ Typografische System
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW46-2021/)
+- 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
 - Typografie
+- CSS-Einheiten
 
 </div>
 </div>
