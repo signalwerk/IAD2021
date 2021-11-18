@@ -78,6 +78,7 @@ Typografische System
 - 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW46-2021/)
 - 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
 - Typografie
+- Schriftabstufung
 - CSS-Einheiten
 
 </div>
