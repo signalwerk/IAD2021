@@ -3,24 +3,12 @@ title: Aufgabe · Blog Post
 ---
 
 
-<style>
-.next {
-  border-color: #ffdd57;
-  color: #947600;
-  border-style: solid;
-  border-width: 0 0 0 0.5rem;
-  padding: 1.25em 1.5em;
-  background-color: #f5f5f5;
-  margin-bottom: 2rem;
-}
-.next h3 {
-  margin-top: 0;
-}
-</style>
-
-
+<header>
 
 # {{process.content.frontmatter.title}}
+
+
+</header>
 
 
 
