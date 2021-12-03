@@ -97,7 +97,7 @@ Typografische System
 - 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW48-2021/)
 - 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
 - Typografie
-- Flexbox
+- Flexbox/Grid
 - OpenSource
 - Werkstatt
 
