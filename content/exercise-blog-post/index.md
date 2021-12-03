@@ -57,6 +57,13 @@ Mit der Arbeit soll eine vertiefte Auseinandersetzung mit typografischen Struktu
 Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://web.archive.org/web/20180718162232/http://www.uzh.ch/de/studies/teaching/plagiate.html). Es darf jedoch 100 % zitiert werden, sofern das Urheberrecht nicht verletzt wird.
 
 
+# Aufgabe · Update 04. 12. 2021
+
+* Im Haupttext kann ein Heading 2 `<h2>Titel</h2>` eingefügt werden.
+* Im Haupttext kann ein Paragraph `<p>… Text …</p>` eingefügt werden.
+* Sowohl der Text wie auch der Paragraph fügen sich danach dem Styling der Seite passend.
+* Beide Tags benötigen kein weiteres Styling/Klassen/ID, sondern werden richtig gestyled.
+
 
 ## Bewertung
 
