@@ -25,6 +25,7 @@
     "./packages/*"
   ],
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "signalwerk.documentation.md": "file:packages/signalwerk.documentation.md"
   }
 }

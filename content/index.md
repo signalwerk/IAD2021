@@ -36,8 +36,7 @@ description: Dokumente für IAD 2021
 - [Design-Systeme im Web ↗](https://publisher.signalwerk.ch/design-systems/)
 - [Masseinheiten im Web – relative oder absolute Angaben ↗](https://publisher.signalwerk.ch/css-units/)
 - [Flexbox – ausrichten von Elementen im Web ↗](https://publisher.signalwerk.ch/flexbox/)
-
-<!-- - [Technologiegeschichte der Schrift ↗](https://interaction.signalwerk.ch/articles/font-history/) -->
+- [Technologiegeschichte der Schrift ↗](https://interaction.signalwerk.ch/articles/font-history/)
 
 ---
 
@@ -51,6 +50,15 @@ description: Dokumente für IAD 2021
 #### {{date '2021-09-18' format='"KW" W · d. m. yyyy'}}
 
 Bildschirme und Fonts · <br>Open Source Communities
+
+
+<!-- 
+
+fehlt: 
+Catharina
+Sario
+
+-->
 
 </div>
 <div class="col-7to12">
@@ -72,6 +80,14 @@ Bildschirme und Fonts · <br>Open Source Communities
 
 Typografische System
 
+<!-- 
+
+fehlt: 
+Juri 
+
+-->
+
+
 </div>
 <div class="col-7to12">
 
@@ -91,6 +107,14 @@ Typografische System
 
 Typografische System
 
+<!-- 
+
+fehlt: 
+Katrin
+Alexandra
+
+ -->
+
 </div>
 <div class="col-7to12">
 
@@ -109,11 +133,20 @@ Typografische System
 
 #### {{date '2022-01-07' format='"KW" W · d. m. yyyy'}}
 
-Typografische System · <br>Open Source Communities
+Typografische System · <br>Open Source Communities · <br>Technologiegeschichte der Schrift
+
+<!-- 
+
+fehlt: 
+– (alle anwesend)
+ 
+ -->
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2022/KW01-2021/)
+- 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
 - Typografie
 - OpenSource
 
@@ -125,12 +158,14 @@ Typografische System · <br>Open Source Communities
 
 #### {{date '2022-01-14' format='"KW" W · d. m. yyyy'}}
 
-Technologiegeschichte der Schrift
+Typografische System 
 
 </div>
 <div class="col-7to12">
 
-- Technologiegeschichte der Schrift
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2022/KW02-2021/)
+- 📝 [Aufgabe · Blog Post](./exercise-blog-post/)
+- Typografische System 
 - Typografie
 
 </div>

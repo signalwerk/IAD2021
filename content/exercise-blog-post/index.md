@@ -16,11 +16,12 @@ title: Aufgabe · Blog Post
 <div class="next">
 
 ### Aktuell Heimarbeit
-Am **04. 12. 2021** solle Text & Bild in einer HTML-Datei eingebaut sein. Grundstyling sollte gemacht sein.  
-Am **04. 12. 2021** wird noch eine weitere Anforderung im Unterricht erklärt.
-Am **07. 1. 2022** Grundstyling ist gemacht. Werkstatt zum Debugen/Verfeinern.   
+Am **14. 1. 2022** Muss die Seite abgegeben werden
 
 ### History
+Am **07. 1. 2022** Grundstyling ist gemacht. Werkstatt zum Debugen/Verfeinern.   
+Am **04. 12. 2021** solle Text & Bild in einer HTML-Datei eingebaut sein. Grundstyling sollte gemacht sein.  
+Am **04. 12. 2021** wird noch eine weitere Anforderung im Unterricht erklärt.
 Am **19. 11. 2021** sollen Text & Bilder gemäss Vorgaben zusammengestellt sein.  
 
 
